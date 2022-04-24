@@ -1,1 +1,0 @@
-f = open("./db_connection").read()
